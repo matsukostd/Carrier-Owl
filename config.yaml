@@ -3,9 +3,14 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        kaggle: 2
+        detection: 3
+        segmentation: 2
+        tracking: 4
+        tracker: 4
+        3d: 3
+        reconstruct: 3
+        reconstruction: 3
 
 # 通知の閾値
 score_threshold: 0
