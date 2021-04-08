@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cs.cv'
 
 # 検索キーワード
 keywords:
@@ -10,7 +10,7 @@ keywords:
         tracker: 4
         3d: 3
         reconstruct: 3
-        reconstruction: 3
+        slam: 3
 
 # 通知の閾値
 score_threshold: 0
